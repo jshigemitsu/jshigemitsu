@@ -29,7 +29,7 @@ An agentic diagnostic workflow that analyzes hardware configurations, firmware, 
 
 **Technologies:** Python, Pydantic, pytest, OpenAI API
 
-### [Chat-Controlled Pet Treat Dispenser](https://github.com/jshigemitsu/Interactive-Arduino-Project)
+### [Live Stream Interactive Project: Pet Treat Dispenser](https://github.com/jshigemitsu/Interactive-Arduino-Project)
 
 ![Arduino Project](Images/treat_project.png)
 
@@ -69,7 +69,7 @@ A four-player cooperative game developed as part of Georgia Tech's Game Design c
 
 **Technologies:** Unity, C#
 
-### [Chat-Controlled Crane Game](https://github.com/jshigemitsu/TwitchPlays-Crane-Game)
+### [Live Stream Interactive Project: Crane Game](https://github.com/jshigemitsu/TwitchPlays-Crane-Game)
 
 ![CraneGame](Images/crane_game.png)
 
