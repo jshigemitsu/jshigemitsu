@@ -69,6 +69,19 @@ A four-player cooperative game developed as part of Georgia Tech's Game Design c
 
 **Technologies:** Unity, C#
 
+### [Chat-Controlled Crane Game](https://github.com/jshigemitsu/TwitchPlays-Crane-Game)
+
+![CraneGame](Images/crane_game.png)
+
+A crane game that allows livestream viewers to play through chat messages.
+
+* Connects livestream chat commands to a Python control application
+* Communicates with an Arduino over serial
+* Controls a motor drivers, 3 DC motors and 4 limit switches to control claw boundaries
+* Combines mechanical design, electronics, firmware, and software automation
+
+**Technologies:** Python, Arduino, C++, Serial Communication, Electronics
+
 ## Technical Skills
 
 **Languages**
