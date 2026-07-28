@@ -111,4 +111,4 @@ My engineering background helps me approach software through understanding the p
 
 ## Connect With Me
 
-[LinkedIn](www.linkedin.com/in/joshua-shigemitsu)
+[LinkedIn](https://www.linkedin.com/in/joshua-shigemitsu/)
