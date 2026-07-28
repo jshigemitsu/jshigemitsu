@@ -15,7 +15,9 @@ I recently completed my **M.S. in Computer Science from Georgia Tech**, speciali
 
 ## Featured Projects
 
-### AI Hardware Troubleshooting Agent
+### [AI Hardware Troubleshooting Agent](https://github.com/jshigemitsu/Hardware-Debug-Agent)
+
+![AI_Report](Images/Agent_example.png)
 
 An agentic diagnostic workflow that analyzes hardware configurations, firmware, and known symptoms.
 
@@ -27,7 +29,9 @@ An agentic diagnostic workflow that analyzes hardware configurations, firmware, 
 
 **Technologies:** Python, Pydantic, pytest, OpenAI API
 
-### Chat-Controlled Pet Treat Dispenser
+### [Chat-Controlled Pet Treat Dispenser](https://github.com/jshigemitsu/Interactive-Arduino-Project)
+
+![Arduino Project](Images/treat_project.png)
 
 A physical treat dispenser that allows livestream viewers to launch treats using chat commands.
 
@@ -38,7 +42,9 @@ A physical treat dispenser that allows livestream viewers to launch treats using
 
 **Technologies:** Python, Arduino, C++, Serial Communication, Electronics
 
-### Gift Redemption App
+### [Gift Redemption App](https://github.com/jshigemitsu/Gift-Redemption-App)
+
+![Gift Project](Images/gift_app.png)
 
 A full-stack web application that manages gift selection, redemption, and fulfillment workflows.
 
@@ -50,7 +56,9 @@ A full-stack web application that manages gift selection, redemption, and fulfil
 
 **Technologies:** React, JavaScript, Supabase, PostgreSQL, HTML, CSS
 
-### Magic Mayhem
+### [Magic Mayhem](https://github.com/jshigemitsu/MagicMayhem)
+
+![MagicMayhem](Images/MagicMayhem.png)
 
 A four-player cooperative game developed as part of Georgia Tech's Game Design course.
 
@@ -91,7 +99,7 @@ At Boeing, I developed and supported engineering software used for aircraft anal
 * Mentoring engineers and improving code-review practices
 * Collaborating with mechanics, suppliers, analysts, and engineering teams
 
-My engineering background helps me approach software from both sides: understanding the physical system and designing software that makes it easier to analyze, test, and operate.
+My engineering background helps me approach software through understanding the physical system and designing software that makes it easier to analyze, test, and operate.
 
 ## Currently Learning
 
