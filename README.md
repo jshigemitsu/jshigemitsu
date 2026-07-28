@@ -15,7 +15,7 @@ I recently completed my **M.S. in Computer Science from Georgia Tech**, speciali
 
 ## Featured Projects
 
-### [AI Hardware Troubleshooting Agent](https://github.com/jshigemitsu/Hardware-Debug-Agent)
+### [Agentic Hardware Troubleshooting Agent](https://github.com/jshigemitsu/Hardware-Debug-Agent)
 
 ![AI_Report](Images/Agent_example.png)
 
